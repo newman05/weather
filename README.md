@@ -1,2 +1,2 @@
 # weather
-Fronted project ✌️
+Frontend project ✌️
